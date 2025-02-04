@@ -1,0 +1,7 @@
+{
+  "name": "Discord Music",
+  "description": "Show off your Discord Music status on your Discord profile. Based on Pylix's LastFM plugin.",
+  "vendetta": {
+    "icon": "ic_stage_music"
+  }
+}
