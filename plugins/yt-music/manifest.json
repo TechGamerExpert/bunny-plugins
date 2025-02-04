@@ -1,7 +1,20 @@
 {
-  "name": "Discord Music",
-  "description": "Show off your Discord Music status on your Discord profile. Based on Pylix's LastFM plugin.",
-  "vendetta": {
-    "icon": "ic_stage_music"
+  "spec": 3,
+  "type": "plugin",
+  "id": "discordmusic.showstatus",
+  "version": "1.0.1",
+  "display": {
+    "name": "Discord Music",
+    "description": "Show off your Discord Music status on your Discord profile. Based on Pylix's LastFM plugin.",
+    "authors": [
+      {
+        "name": "TechGamerExpert",
+        "id": "0000000000000000"
+      }
+    ]
+  },
+  "main": "src/index.tsx",
+  "extras": {
+    "bunny": {}
   }
 }
